@@ -43,7 +43,7 @@ https://www.digikey.ca/en/products/detail/texas-instruments/CD40109BE/376604
 
 ### prepare for project, clone this repo, point to new repo.
     mkdir myproject
-    git clone https://github.com/djoha/rpicontainer.git
+    git clone https://github.com/djoha/rpi-ioexpander.git
     git remote set-url origin https://github.com/user/newrepo.git
 
 # Editor
