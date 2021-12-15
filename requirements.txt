@@ -1,0 +1,5 @@
+fastapi
+pydantic
+uvicorn
+RPi.GPIO==0.7.1a4
+adafruit-circuitpython-mcp230xx
